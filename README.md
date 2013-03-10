@@ -1,4 +1,4 @@
-# Multi-plot library
+# ardu-plot: Multi-plot library for Arduino
 
 If you need to plot multiple series, even in different scales, this is the library for you.
 
@@ -11,4 +11,3 @@ If you need to plot multiple series, even in different scales, this is the libra
 ## How to use
 
  // TBD 
-
